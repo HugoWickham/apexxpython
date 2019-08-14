@@ -11,7 +11,7 @@ setuptools.setup(
     description="Package containing functions for accessing Apexx API 2.0",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://sandmgw.apexxfintech.com/mgw/v2/api/doc#",
+    url="https://github.com/HugoWickham/apexxpython",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
